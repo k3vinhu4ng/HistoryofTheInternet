@@ -1,0 +1,19 @@
+h1 {
+    font-family: Garamond;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    background-color: #212529;
+    color: white;
+}
+
+div.row {
+    background-color: #212529;
+}
+
+html {
+    background-color: #212529;
+}
+
+
+
