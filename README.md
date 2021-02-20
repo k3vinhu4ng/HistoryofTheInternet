@@ -2,6 +2,9 @@
 
 ## History of the Internet Project
 
+### Team Members: 
+- Kevin Ramos
+- Kevin Huang
 
 [Website hosted on github](https://kevnramos.github.io/HistoryofTheInternet/)
 
