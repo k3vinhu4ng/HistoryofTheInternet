@@ -11,3 +11,5 @@ stanford.jpg = https://unsplash.com/photos/f5OO7rL6OD8
 ecommerce.jpg = https://unsplash.com/photos/Q59HmzK38eQ
 
 socialmedia.jpg = https://unsplash.com/photos/60GsdOMRFGc
+
+code.jpg = https://unsplash.com/photos/4hbJ-eymZ1o
